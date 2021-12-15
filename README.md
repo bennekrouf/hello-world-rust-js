@@ -10,5 +10,5 @@ npm i
 npm run serve
 ```
 
+Open [localhost](http://localhost:8080/)
 
-Open ![http://localhost:8080/]
