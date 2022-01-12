@@ -3,5 +3,5 @@ use web_sys::console;
 
 #[wasm_bindgen]
 pub fn hello_world() {
-    console::log_1(&"Salam the world".into());
+    console::log_1(&"Hey the world".into());
 }
