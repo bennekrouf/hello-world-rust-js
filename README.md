@@ -1,4 +1,4 @@
-# hello-world-rust-js
+# Wasm basics
 
 Minimum required to call rust function from JS using wasm.
 
